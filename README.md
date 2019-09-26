@@ -15,3 +15,6 @@ No.
 
 * Is this program going to slow down my PC?
 No. It uses virtually no memory, takes up no disk space and uses only minimal CPU time.
+
+* Will this program steal my data?
+No. If you don't believe me, look at the code (it's all powershell).
